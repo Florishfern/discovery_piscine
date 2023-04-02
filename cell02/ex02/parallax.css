@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+}
+
+.page1 h1{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.page1 {
+    background-image: url(https://w0.peakpx.com/wallpaper/165/747/HD-wallpaper-beautiful-landscape-digital-art.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page2 h1{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: white;
+}
+.page2{
+    background-color: black;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+.page3 h1{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+.page3 {
+    background-image: url(https://i.pinimg.com/736x/92/79/59/927959668b7dab3ab4efed142941fa61.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
